@@ -1,1 +1,11 @@
-# add the libraries you might use here
+pandas
+geopandas
+shapely
+sqlalchemy
+psycopg2
+osgeo
+jsonschema  # You might need this for JSON operations
+seaborn
+numpy
+matplotlib
+scikit-learn
